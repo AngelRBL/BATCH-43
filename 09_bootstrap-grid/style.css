@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Suwannaphum&display=swap');
+@import url('./assets/font/');
+
+h2{
+    font-family: 'Suwannaphum', cursive;
+}
+.my-container{
+    border: black 2px solid;
+}
+
+.my-row{
+    border: blue 2px solid;
+}
+.item1{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.item2{
+    background-color: rgb(226, 43, 211);
+    width: 100px;
+    height: 100px;
+}
+.item3{
+    background-color: rgb(43, 226, 52);
+    width: 100px;
+    height: 100px;
+}
+
+.my-icon{
+    color: white;
+    font-size: 50px;
+}

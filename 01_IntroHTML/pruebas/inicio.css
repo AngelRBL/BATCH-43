@@ -1,0 +1,69 @@
+body {
+    border: solid white 2px;
+    width: 1550px;
+    height: 850px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.contenedor { 
+    background-color: blue;
+    border: solid blue 2px;
+    width: 775px;
+    height: 850px;
+}
+.padre {
+    background-color: white;
+    width: 600px;
+    height: 400px;
+}
+.rojo {
+    background-color: red;
+    width: 550px;
+    height: 350px;
+
+}
+.padre1 {
+    background-color: white;
+    border: solid blue 2px;
+    width: 600px;
+    height: 400px;
+    margin-top: 48px;
+}
+.rojo1 {
+    background-color: red;
+    width: 550px;
+    height: 350px;
+    margin-top: 50px;
+}
+.contenedor1 {
+    border: solid blue 2px;
+    width: 775px;
+    height: 850px;
+}
+.madre { 
+    background-color: white;
+    border: blue 2px;
+    width: 775px;
+    height: 400px;
+}
+.madre1 {
+    background-color: white;
+    border: solid blue 2px;
+    width: 775px;
+    height: 400px;
+    margin-top: 45px;
+}
+.rojo2 {
+    background-color: red;
+    width: 750px;
+    height: 360px;
+    margin-left: 25px;
+}
+.rojo3 {
+    background-color: red;
+    width: 750px;
+    height: 360px;
+    margin-left: 25px;
+    margin-top: 40px;
+}

@@ -1,0 +1,26 @@
+.navI {
+   padding-left: 1650px;
+}
+.iconos{
+    display: inline-block;
+}
+.main{
+    width: 700px;
+    height: 700px;
+    margin: auto;
+    margin-top: 80px;
+}
+.logo {
+    width: 700px;
+    margin: auto;
+}
+.botones {
+    margin-top: 20px;
+    margin-left: 320px;
+}
+h2 {
+    width: 500px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 330px;
+}

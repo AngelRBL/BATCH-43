@@ -1,0 +1,22 @@
+.my-container{
+    border: black 2px ;
+    width: auto;
+}
+.my-row{
+    border: black 2px solid;
+}
+.item1{
+    background-color:aqua;
+    width: auto;
+    height: auto;
+}
+.item2{
+    background-color: red;
+    width: auto;
+    height: auto;
+}
+.item3{
+    background-color: blue;
+    width: auto;
+    height: auto;
+}
